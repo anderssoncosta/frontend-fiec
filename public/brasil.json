@@ -1,0 +1,150 @@
+{
+  "type": "Topology",
+  "objects": {
+    "estados": {
+      "type": "GeometryCollection",
+      "geometries": [
+        [
+          {
+            "type": "Polygon",
+            "properties": { "name": "Acre", "id": "AC", "value": 0.112 },
+            "arcs": [[0]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Alagoas", "id": "AL", "value": 0.104 },
+            "arcs": [[1]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Amapá", "id": "AP", "value": 0.089 },
+            "arcs": [[2]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Amazonas", "id": "AM", "value": 0.253 },
+            "arcs": [[3]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Bahia", "id": "BA", "value": 0.210 },
+            "arcs": [[4]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Ceará", "id": "CE", "value": 0.228 },
+            "arcs": [[5]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Distrito Federal", "id": "DF", "value": 0.283 },
+            "arcs": [[6]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Espírito Santo", "id": "ES", "value": 0.254 },
+            "arcs": [[7]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Goiás", "id": "GO", "value": 0.204 },
+            "arcs": [[8]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Maranhão", "id": "MA", "value": 0.119 },
+            "arcs": [[9]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Mato Grosso", "id": "MT", "value": 0.153 },
+            "arcs": [[10]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Mato Grosso do Sul", "id": "MS", "value": 0.165 },
+            "arcs": [[11]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Minas Gerais", "id": "MG", "value": 0.354 },
+            "arcs": [[12]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Pará", "id": "PA", "value": 0.138 },
+            "arcs": [[13]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Paraíba", "id": "PB", "value": 0.175 },
+            "arcs": [[14]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Paraná", "id": "PR", "value": 0.749 },
+            "arcs": [[15]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Pernambuco", "id": "PE", "value": 0.255 },
+            "arcs": [[16]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Piauí", "id": "PI", "value": 0.104 },
+            "arcs": [[17]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Rio de Janeiro", "id": "RJ", "value": 0.469 },
+            "arcs": [[18]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Rio Grande do Norte", "id": "RN", "value": 0.191 },
+            "arcs": [[19]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Rio Grande do Sul", "id": "RS", "value": 0.451 },
+            "arcs": [[20]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Rondônia", "id": "RO", "value": 0.725 },
+            "arcs": [[21]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Roraima", "id": "RR", "value": 0.119 },
+            "arcs": [[22]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Santa Catarina", "id": "SC", "value": 0.438 },
+            "arcs": [[23]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "São Paulo", "id": "SP", "value":  0.395 },
+            "arcs": [[24]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Sergipe", "id": "SE", "value": 0.191 },
+            "arcs": [[25]]
+          },
+          {
+            "type": "Polygon",
+            "properties": { "name": "Tocantins", "id": "TO", "value": 0.068 },
+            "arcs": [[26]]
+          }
+        ]
+        
+      ]
+    }
+  }
+}
+
+
